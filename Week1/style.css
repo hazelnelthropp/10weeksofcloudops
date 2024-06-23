@@ -12,7 +12,7 @@ body {
 
 /* Style the header */
 header {
-	background-color: #333;
+	background-color: lightblue;
 	color: #fff;
 	padding: 20px;
 }
@@ -50,11 +50,12 @@ main {
 	max-width: 800px;
 	margin: 0 auto;
 	padding: 20px;
+	background-color: lightblue;
 }
 
 /* Style the footer */
 footer {
-	background-color: #333;
+	background-color: lightblue;
 	color: #fff;
 	padding: 20px;
 	text-align: center;
